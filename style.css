@@ -79,7 +79,7 @@ main p,.main-text h2 {
     margin-bottom:12px;
 }
 
-header svg{
+header img{
     border-radius:10px;
     width: 100%;
     height: auto;
@@ -87,6 +87,7 @@ header svg{
 
 header{
     height: 200px;
+    overflow: hidden;
 }
 
 .main-text h2 {
